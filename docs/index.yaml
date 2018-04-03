@@ -1,0 +1,48 @@
+apiVersion: v1
+entries:
+  microservice-schedule:
+  - apiVersion: v1
+    created: 2018-04-03T11:09:50.201676795+09:00
+    description: A Helm chart for Kubernetes
+    digest: 3a838f2d6118a70d7ad5103a0d26c164e89ea844bff5bce4c88e138bafd247b7
+    name: microservice-schedule
+    urls:
+    - https://testcncc.github.io/mycharts/microservice-schedule-1.0.0.tgz
+    version: 1.0.0
+  microservice-session:
+  - apiVersion: v1
+    created: 2018-04-03T11:09:50.202134911+09:00
+    description: A Helm chart for Kubernetes
+    digest: c0f98ef194cf01ab9b93f4ec38522b0c2e1ae6e6d5ba03fa16bb74b82e9b27b1
+    name: microservice-session
+    urls:
+    - https://testcncc.github.io/mycharts/microservice-session-1.0.0.tgz
+    version: 1.0.0
+  microservice-speaker:
+  - apiVersion: v1
+    created: 2018-04-03T11:09:50.202599+09:00
+    description: A Helm chart for Kubernetes
+    digest: 02e82aa1f98a5a8123c4ef048694067cfa1906b567ac63e7ed2fec1e6f894d40
+    name: microservice-speaker
+    urls:
+    - https://testcncc.github.io/mycharts/microservice-speaker-1.0.0.tgz
+    version: 1.0.0
+  microservice-vote:
+  - apiVersion: v1
+    created: 2018-04-03T11:09:50.204155831+09:00
+    description: A Helm chart for Kubernetes
+    digest: 4156b9e0ca96b9b1b0441ef62d15ca6765901ab99ca632ba6b1fd077bfad1abf
+    name: microservice-vote
+    urls:
+    - https://testcncc.github.io/mycharts/microservice-vote-1.0.0.tgz
+    version: 1.0.0
+  web-application:
+  - apiVersion: v1
+    created: 2018-04-03T11:09:50.209065596+09:00
+    description: A Helm chart for Kubernetes
+    digest: 9afb2aaf87f43a75f17f6e0efafbca110da511f32d682e4b943d363246a7c01e
+    name: web-application
+    urls:
+    - https://testcncc.github.io/mycharts/web-application-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-04-03T11:09:50.200979638+09:00
